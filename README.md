@@ -48,25 +48,15 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=diaa-alsheref&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diaa-alsheref&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=diaa-alsheref&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=diaa-alsheref&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=diaa-alsheref&theme=dark&hide_border=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diaa-alsheref&layout=compact&theme=tokyonight&hide_border=true)
 
----
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=diaa-alsheref&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## 🔝 Top Contributed Repositories
-
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=diaa-alsheref&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
